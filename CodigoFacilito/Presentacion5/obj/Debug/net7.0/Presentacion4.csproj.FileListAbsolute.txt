@@ -1,0 +1,14 @@
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\bin\Debug\net7.0\Presentacion4.exe
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\bin\Debug\net7.0\Presentacion4.deps.json
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\bin\Debug\net7.0\Presentacion4.runtimeconfig.json
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\bin\Debug\net7.0\Presentacion4.dll
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\bin\Debug\net7.0\Presentacion4.pdb
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.AssemblyInfoInputs.cache
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.AssemblyInfo.cs
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.csproj.CoreCompileInputs.cache
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.dll
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\refint\Presentacion4.dll
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.pdb
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\Presentacion4.genruntimeconfig.cache
+C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion4\obj\Debug\net7.0\ref\Presentacion4.dll
