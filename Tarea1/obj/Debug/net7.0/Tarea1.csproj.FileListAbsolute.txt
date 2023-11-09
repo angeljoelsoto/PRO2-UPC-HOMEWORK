@@ -1,0 +1,14 @@
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\bin\Debug\net7.0\Tarea1.exe
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\bin\Debug\net7.0\Tarea1.deps.json
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\bin\Debug\net7.0\Tarea1.runtimeconfig.json
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\bin\Debug\net7.0\Tarea1.dll
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\bin\Debug\net7.0\Tarea1.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.AssemblyInfoInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.AssemblyInfo.cs
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.dll
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\refint\Tarea1.dll
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\Tarea1.genruntimeconfig.cache
+C:\UPC\PRO2-UPC-HOMEWORK\Tarea1\obj\Debug\net7.0\ref\Tarea1.dll
