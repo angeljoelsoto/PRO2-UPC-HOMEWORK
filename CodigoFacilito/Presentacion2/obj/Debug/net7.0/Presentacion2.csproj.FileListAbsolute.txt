@@ -12,3 +12,17 @@ C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion2\obj\Debug\net7.0\refint\Prese
 C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion2\obj\Debug\net7.0\Presentacion2.pdb
 C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion2\obj\Debug\net7.0\Presentacion2.genruntimeconfig.cache
 C:\Users\JOEL SOTO\Desktop\proyectos\Presentacion2\obj\Debug\net7.0\ref\Presentacion2.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\bin\Debug\net7.0\Presentacion2.exe
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\bin\Debug\net7.0\Presentacion2.deps.json
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\bin\Debug\net7.0\Presentacion2.runtimeconfig.json
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\bin\Debug\net7.0\Presentacion2.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\bin\Debug\net7.0\Presentacion2.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.AssemblyInfoInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.AssemblyInfo.cs
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\refint\Presentacion2.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\Presentacion2.genruntimeconfig.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Presentacion2\obj\Debug\net7.0\ref\Presentacion2.dll
