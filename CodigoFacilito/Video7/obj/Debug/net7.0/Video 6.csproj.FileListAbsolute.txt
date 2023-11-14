@@ -1,0 +1,14 @@
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.AssemblyInfoInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.AssemblyInfo.cs
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\bin\Debug\net7.0\Video 6.exe
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\bin\Debug\net7.0\Video 6.deps.json
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\bin\Debug\net7.0\Video 6.runtimeconfig.json
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\bin\Debug\net7.0\Video 6.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\bin\Debug\net7.0\Video 6.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\refint\Video 6.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\Video 6.genruntimeconfig.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 6\obj\Debug\net7.0\ref\Video 6.dll
