@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UPC\\PRO2-UPC-HOMEWORK\\CodigoFacilito\\Presentacion5\\Presentacion4.csproj": {}
+    "C:\\UPC\\PRO2-UPC-HOMEWORK\\Actividad 5\\Actividad #4.csproj": {}
   },
   "projects": {
-    "C:\\UPC\\PRO2-UPC-HOMEWORK\\CodigoFacilito\\Presentacion5\\Presentacion4.csproj": {
+    "C:\\UPC\\PRO2-UPC-HOMEWORK\\Actividad 5\\Actividad #4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UPC\\PRO2-UPC-HOMEWORK\\CodigoFacilito\\Presentacion5\\Presentacion4.csproj",
-        "projectName": "Presentacion4",
-        "projectPath": "C:\\UPC\\PRO2-UPC-HOMEWORK\\CodigoFacilito\\Presentacion5\\Presentacion4.csproj",
+        "projectUniqueName": "C:\\UPC\\PRO2-UPC-HOMEWORK\\Actividad 5\\Actividad #4.csproj",
+        "projectName": "Actividad #4",
+        "projectPath": "C:\\UPC\\PRO2-UPC-HOMEWORK\\Actividad 5\\Actividad #4.csproj",
         "packagesPath": "C:\\Users\\JOEL SOTO\\.nuget\\packages\\",
-        "outputPath": "C:\\UPC\\PRO2-UPC-HOMEWORK\\CodigoFacilito\\Presentacion5\\obj\\",
+        "outputPath": "C:\\UPC\\PRO2-UPC-HOMEWORK\\Actividad 5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOEL SOTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
