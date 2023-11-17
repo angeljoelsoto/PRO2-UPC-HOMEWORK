@@ -22,6 +22,10 @@
             Console.WriteLine("se encontro el elemento: "); 
             B.BuscarElementoArrayCadenas("marino");
 
+            
+
+        
+           
 
 
         }

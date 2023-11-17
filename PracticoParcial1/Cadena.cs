@@ -6,7 +6,7 @@ class Cadena
     {
         Cad = newcadena;
     }
-
+    //ejercicio 4
     public string BuscarElementoArrayCadenas(string elemento)
     {
         bool encontrado = Cad.Contains(Cad);
@@ -20,5 +20,4 @@ class Cadena
         }
         return "";
     }
-    
 }
