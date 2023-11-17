@@ -1,0 +1,14 @@
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.AssemblyInfoInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.AssemblyInfo.cs
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\bin\Debug\net7.0\PracticoParcial1.exe
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\bin\Debug\net7.0\PracticoParcial1.deps.json
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\bin\Debug\net7.0\PracticoParcial1.runtimeconfig.json
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\bin\Debug\net7.0\PracticoParcial1.dll
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\bin\Debug\net7.0\PracticoParcial1.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.dll
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\refint\PracticoParcial1.dll
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\PracticoParcial1.genruntimeconfig.cache
+C:\UPC\PRO2-UPC-HOMEWORK\PracticoParcial1\obj\Debug\net7.0\ref\PracticoParcial1.dll
