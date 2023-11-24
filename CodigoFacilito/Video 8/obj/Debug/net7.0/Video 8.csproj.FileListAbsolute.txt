@@ -1,0 +1,14 @@
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.AssemblyInfoInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.AssemblyInfo.cs
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\bin\Debug\net7.0\Video 8.exe
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\bin\Debug\net7.0\Video 8.deps.json
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\bin\Debug\net7.0\Video 8.runtimeconfig.json
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\bin\Debug\net7.0\Video 8.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\bin\Debug\net7.0\Video 8.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\refint\Video 8.dll
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\Video 8.genruntimeconfig.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\Video 8\obj\Debug\net7.0\ref\Video 8.dll

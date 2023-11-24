@@ -22,7 +22,8 @@ namespace video8
         private string _Apellidos;
         public string Apellidos
         {
-            get{}
+            get{return _Apellidos;}
+            set{_Apellidos = value;}
         }
     }
 }
